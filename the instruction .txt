@@ -1,0 +1,21 @@
+we use in this project node mcu 8266 v3 
+
+the project is control the servo motor using slidebar in html page 
+
+by including html , css and javascribt and upload thim to esp
+
+and connect the esp to wifi router and get the ip 
+
+the ip of esp is static 
+
+and you must include your static ip in the code
+ 
+then connect your labtop of phone to the same router or access point
+ 
+then you can write the ip of esp to your browser in the url bar 
+
+and finally you can control you servo wiyh any angel using mouse or keyboard button up ,dwon, left and right
+ 
+connect the servo red wire to 3.3v 
+
+the servo black wire to GND IN ESP 
