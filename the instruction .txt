@@ -1,5 +1,6 @@
 we use in this project node mcu 8266 v3 
 
+
 the project is control the servo motor using slidebar in html page 
 
 by including html , css and javascribt and upload thim to esp
@@ -18,4 +19,19 @@ and finally you can control you servo wiyh any angel using mouse or keyboard but
  
 connect the servo red wire to 3.3v 
 
-the servo black wire to GND IN ESP 
+connect the servo black wire to GND IN ESP 
+
+connect the servo orange or yellow wire to pin D7 
+
+and the led to pin D6
+ 
+and also this file is have and event hnadler of wifi 
+first the esp was not connect to wifi the led will be on and off 
+if it connect the led will off
+if the connection interrupt the led will open 
+and esp will retry to reconnect from itself 
+and if it connect after the interrupt the led will be off from itself too
+
+And I wish that anyone who benefited from this project would pray for me
+
+thanks
