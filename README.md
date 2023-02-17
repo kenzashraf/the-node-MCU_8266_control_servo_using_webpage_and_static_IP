@@ -1,2 +1,2 @@
-# the-node-MCU-8266-control_servo_usingwebpage_and_static_IP
+# the-node-MCU-8266-control_servo_using_webpage_and_static_IP
  
